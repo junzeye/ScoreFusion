@@ -1,0 +1,2 @@
+# don't count jupyter notebooks in the code breakdown
+*.ipynb linguist-vendored
